@@ -1,13 +1,6 @@
 # ETL_Data-WareHouse
 A modern data ware house with SQl server following ETL processes , data modeling,and analytics
 
-
-# Data Warehouse and Analytics Project
-
-Welcome to the **Data Warehouse and Analytics Project** repository! 
-
-This project showcases an end-to-end data warehousing and analytics solution — from designing and building a data warehouse to producing meaningful business insights. Built as a portfolio piece, it reflects real-world best practices used in data engineering and analytics.
-
 ---
 
 ## 🏗️ Data Architecture
