@@ -14,7 +14,7 @@ This project showcases an end-to-end data warehousing and analytics solution —
 
 The architecture of this project is based on the **Medallion Architecture**, structured into three layers: Bronze, Silver, and Gold.
 
-https://github.com/Fahadkhan2450/SQL_Data-WareHouse/blob/b516d97702c9aad4bfbf9f45725953e60461171f/docs/DataWarehouse%20structure%20and%20Flow.drawio.png
+![image alt](https://github.com/Fahadkhan2450/SQL_Data-WareHouse/blob/b516d97702c9aad4bfbf9f45725953e60461171f/docs/DataWarehouse%20structure%20and%20Flow.drawio.png)
 
 
 
